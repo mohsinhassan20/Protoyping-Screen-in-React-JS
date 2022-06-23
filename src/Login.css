@@ -1,0 +1,27 @@
+ body {
+     background-image: url("bg.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+ 
+      height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    }
+  #btn {
+     margin-left: 130px;
+ }
+
+ .content {
+     margin-top: 40vh;  
+ }
+
+ .logo {
+     background-color: black;
+     margin: auto;
+     margin-top: 20px;
+     width: 10vh;
+     height: 10vh;
+
+ }

@@ -1,0 +1,17 @@
+body {
+    background-image: none !important;
+}
+
+.tbl {
+    width: 55vw;
+    margin-left: 25vw;
+    margin-top: 10vh;
+}
+h1{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+table {
+    border: 1px solid black;
+    border-radius: 10px;
+}
